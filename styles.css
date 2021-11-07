@@ -1,0 +1,19 @@
+body {
+				font-family: Georgia, sans-serif;
+				max-width: 900px;
+				margin: 0 auto;
+				background-color: #ffe7f7;
+			}
+			h1, h2 {
+				text-align: center;
+				font-style:italic;
+				color:  #d3882c;
+			}
+			h2 {
+				font-style: normal;
+			}
+			.top-img-custom{
+			margin-left: 100px;
+			margin-right: 100px;
+}
+			}
